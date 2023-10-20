@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "docker": "^0.2.14"
+  }
+}
